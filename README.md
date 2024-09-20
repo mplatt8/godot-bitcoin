@@ -1,0 +1,1 @@
+# Bitcoin Extension for Godot
